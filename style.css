@@ -284,8 +284,20 @@ padding-bottom: 200px;
 .img-container, .info-container {
     width: 50%;
 }
+.img-card-1 {
+    background-image: url(https://kartinki.pics/uploads/posts/2022-02/1645542281_27-kartinkin-net-p-kartinki-dlya-estetiki-28.jpg);
+}
+.img-card-3{
+    background-image: url(https://avatars.dzeninfra.ru/get-zen_doc/9722138/pub_64479e0843bf4a3dcaa2003e_6447a1d685446f66f8198fcc/scale_1200);
+}
 .img-card-1, .img-card-3{
     margin-right: 40px;
+}
+.img-card-2 {
+    background-image: url(https://idbi.ru/files/1/5354/12342506/original/01.jpg);
+}
+.img-card-4{
+    background-image: url(https://i.pinimg.com/736x/e9/00/b4/e900b4bc453fc64caa0f6660883a5c4a.jpg);
 }
 .img-card-2, .img-card-4 {
     order: 2;
